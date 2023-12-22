@@ -1,4 +1,4 @@
-# Welcome to My Github Playground! 🚀
+# Welcome to my Github Playground! 🚀
 
 **Greetings, fellow developers! 👋 I'm Bruno Oliveira, a passionate fullstack developer from Brazil. 🇧🇷**
 
