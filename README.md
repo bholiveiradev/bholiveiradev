@@ -26,7 +26,7 @@ Feel the power of coding with these amazing technologies!
 
 Have a question, suggestion, or just want to chat about coding? Reach out to me:
 
-<a href="https://www.linkedin.com/in/bolieiradev" target="_blank" style="text-decoration:none!important">
+<a href="https://www.linkedin.com/in/boliveiradev" target="_blank" style="text-decoration:none!important">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.me/5513996657883" target="_blank" style="text-decoration:none!important">
